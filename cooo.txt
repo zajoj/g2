@@ -1,1 +1,1 @@
-ipcinfig
+ ipconfig
